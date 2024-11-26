@@ -25,13 +25,13 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4 ", M+ Liga De Campeones 4 SD
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 5 ", M+ Liga De Campeones 5 SD
-acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 6 ", M+ Liga De Campeones 6 SD
-acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
+acestream://64a9353032efa2acb093d0bb86481f20f482d47e
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 7 ", M+ Liga De Campeones 7 SD
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
@@ -58,13 +58,13 @@ acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV FHD
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV FHD
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 1080", M+ LaLigaTV FHD
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 720", M+ LaLigaTV HD
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
@@ -76,16 +76,16 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiLp-j31_9jlojk6kD654iU0tvWaHMJMrLsEY1fTEYmg&s" group-title="LIGA" tvg-id ="M.Liga 3 1080", M+ LaLigaTV 3 FHD
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
+acestream://ffbfbe31665c5b7f2f687872ba28f5f8717aedfc
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/09/laligatv_mp_logo.jpg" group-title="LIGA" tvg-id ="M.Liga 4 1080", M+ LaLigaTV 4 FHD
-acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+acestream://eee6144058d6106c243cbde774b05bff4a704a86
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/09/laligatv_mp_logo.jpg" group-title="LIGA" tvg-id ="M.Liga 5 1080", M+ LaLigaTV 5 FHD
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/09/laligatv_mp_logo.jpg" group-title="LIGA" tvg-id ="M.Liga 6 1080", M+ LaLigaTV 6 FHD
-acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21
+acestream://c896d37778f9e43549a788fc22206a655895b51b
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga FHD
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -103,7 +103,7 @@ acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_77D8_40A_1_C00000_0_0_0-2.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", DAZN LaLiga 3 FHD
-acestream://3d0b2395098452617097896abb38956965b8a396
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="LIGA" tvg-id="Dazn La Liga", DAZN LaLiga 4 FHD
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
