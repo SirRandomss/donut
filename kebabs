@@ -733,16 +733,16 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/151714
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178212
 
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080 Multi", M+ Supercopa FHD
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080", M+ Supercopa FHD
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+acestream://
 
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080", M+ Supercopa FHD
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+acestream://
 
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 720", M+ Supercopa HD
-acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
+acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.elpoderdelasideas.com/wp-content/uploads/syfy-nuevo-2017.png?resize=780%2C286" group-title= "TDT" tvg-id="SYFY FHD", SyFy FHD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178123
@@ -782,7 +782,7 @@ acestream://cc316a6404e211cbd2a77369561ea911e9032d9e
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="TDT" tvg-id="Movistar +", Movistar +
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/1200px-WarnerTV_France_2021.svg.png" group-title="TDT" tvg-id="Warner TV", Warner TV
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
