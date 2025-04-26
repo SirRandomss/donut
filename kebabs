@@ -892,8 +892,35 @@ acestream://721a78f2076faa584c9c09059ffb4e10159f4665
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Eurosport_9_HD.svg/revision/latest?cb=20220505150639" group-title="Eurosport" tvg-id="Eurosport 9 FHD", Eurosport 9 FHD
 acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="M+", M+
+acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="M+", M+ Opcion 2
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Liga Bar", Liga Bar
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Liga Bar", Liga Bar Opcion 2
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Copa Del Rey", Copa Del Rey
+acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Copa Del Rey", Copa Del Rey Opcion 2
+acestream://08bf74b427c432b974712d1d950eacaa513287e5
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Copa Del Rey", Copa Del Rey Opcion 3
+acestream://76eaa5f815461cac46700b5313b84d363297871b
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Copa Del Rey", Copa Del Rey Opcion 4
+acestream://bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Copa Del Rey", Copa Del Rey Opcion 5
+acestream://9fd0ad6591be70c5c31b7659162cf67ae2dff16e
+
+#EXTINF:-1 tvg-logo="" group-title="Final Copa Del Rey" tvg-id="Copa Del Rey", Copa Del Rey Opcion 6
+acestream://440fc0139d2ea66c7680b6df85512eaf4dee446a
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
