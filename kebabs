@@ -261,12 +261,6 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M.Deportes 7 1080", M+ Deportes 7 FHD
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_16625550975000" group-title="Alemania" tvg-id="(DE ) DAZN 1", DAZN 1 GER
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_16625550976000" group-title="Alemania" tvg-id="(DE ) DAZN 2", DAZN 2 GER
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-ck-c0x00ffffff-no-rj" group-title="TDT" tvg-id=" #0", M+ #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
@@ -329,9 +323,6 @@ http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/169502
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga FHD
 acestream://fee5612d57824b6e8db780f210ec54093056dc3a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" group-title="Rumania" tvg-id="Antena 1 (Opción 2)", Antena 1 (Opción 2)
-acestream://b052e6c6f1dd4ffbc3d029438afd94d1ef978af0
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440% 2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 2 1080 Multi", DAZN LaLiga 2 FHD
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
