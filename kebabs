@@ -423,8 +423,14 @@ acestream://721a78f2076faa584c9c09059ffb4e10159f4665
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Eurosport_9_HD.svg/revision/latest?cb=20220505150639" group-title="Eurosport" tvg-id="Eurosport 9 FHD", Eurosport 9 FHD
 acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco FHD", Telecinco FHD
+acestream://3e73fe77d956b07ff233cdb3b89966fae33391e6
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco FHD", Telecinco FHD
+acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco FHD", Telecinco FHD
+acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 
 
 
