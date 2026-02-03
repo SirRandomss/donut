@@ -256,7 +256,10 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 FHD", La 1 FHD
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT" tvg-id="La 1 FHD", La 1 FHD
+acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png" group-title="TDT" tvg-id="24h HD", 24h HD
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
@@ -409,7 +412,7 @@ acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/954aa1/1-uhd/450_1000.jpeg" group-title="TDT" tvg-id="La 1 UHD", La 1 UHD
-acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.rVlzGfT29E.jpg" group-title="Eurosport" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
 acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
