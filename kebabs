@@ -459,6 +459,9 @@ acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="TDT" tvg-id="Telecinco FHD", Telecinco FHD
 acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 
+#EXTINF:-1 tvg-logo="" group-title="Otro" tvg-id="Prima TV", Prima Tv
+acestream://f67e3b05a7863b47065b9599a6433f06dac2fcdb
+
 
 
 
