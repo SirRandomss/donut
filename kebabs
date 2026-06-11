@@ -490,18 +490,10 @@ acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
 acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 
 #EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
-acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
-
-#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
-acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
-
-#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
-acestream://f379d93b71731f1bbd0845d1b1e4dc37b5b1fd92
-
-#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
 
-
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 
 
