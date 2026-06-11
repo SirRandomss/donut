@@ -468,6 +468,39 @@ acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="" group-title="Otro" tvg-id="Prima TV", Prima Tv
 acestream://f67e3b05a7863b47065b9599a6433f06dac2fcdb
 
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="DAZN Mundial 1", DAZN Mundial 1
+acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="DAZN Mundial 2", DAZN Mundial 2
+acestream://63b1933154919d116f08e33ffcb31a23f9483989
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="DAZN Mundial 3", DAZN Mundial 3
+acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="DAZN Mundial 4", DAZN Mundial 4
+acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1 FHD", La 1 FHD
+acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1 FHD", La 1 FHD
+acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1 4K", La 1 4K
+acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
+acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
+acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
+acestream://f379d93b71731f1bbd0845d1b1e4dc37b5b1fd92
+
+#EXTINF:-1 tvg-logo="" group-title="Mundial" tvg-id="La 1", La 1
+acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
+
 
 
 
